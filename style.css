@@ -1,0 +1,53 @@
+body {
+	background-image: url('handsbg.svg');
+}
+
+#meta-column {
+
+}
+
+#meta-column #link-to-post {
+	background: no-repeat url('link-icon.svg') 15px 25px;
+	padding: 25px 30px;
+}
+
+
+#list-column {
+	background-image: url('hands-logo.png');
+}
+
+
+/* COLOURS */
+
+.blue-grey-bg {
+	background-color: #455A64;
+}
+
+.standard-grey-text {
+	color: #767676;
+}
+
+.darker-grey-text {
+	color: #464646;
+}
+
+.green-bg {
+	background-color: : #27AE60;
+}
+
+.green-border {
+	border-color: #27AE60;
+}
+
+.green-text {
+	color: #27AE60;
+}
+
+.lightgrey-bg {
+	background-color: #F5F5F5;
+}
+
+.white-bg {
+	background-color: #fff;
+}
+
