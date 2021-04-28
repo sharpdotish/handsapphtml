@@ -7,7 +7,7 @@ A freelance front-end developer was hired to work on the HTML and CSS template b
 Time limit: Unlimited time to prepare and plan
 Share Screen: 30 minutes starting from: `$ git clone`
 
-Repo (public readonly access): 
+Repo (public readonly access): https://github.com/sharpdotish/handsapphtml
 Design (Left Design frame only): https://www.figma.com/file/1YYIeca3GVwpY9G49IK3wP/Untitled?node-id=1%3A2 
 
 Extra points
